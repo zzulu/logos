@@ -4,5 +4,5 @@
 
 | Name | Square | Fit to content | Padding with content |
 | ---- | ---- | ---- | ---- |
-| Python | [jpg](python.jpg) [png](python.png) | | |
-| Flex | [png](flex.png) | | |
+| Python | [jpg](s/python.jpg) [png](s/python.png) | | |
+| Flex | [png](s/flex.png) | | |
