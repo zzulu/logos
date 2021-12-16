@@ -12,13 +12,12 @@
   </style>
 </head>
 <body>
+  <a href="https://github.com/hphkinc/logos">GitHub</a>
   <div id="container"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     axios.get('README.md')
-      .then((res) => {
-        return res.data
-      })
+      .then((res) => res.data)
       .then((markdownString) => {
         document.getElementById('container').innerHTML = marked.parse(markdownString);
       })
