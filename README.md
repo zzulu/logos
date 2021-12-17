@@ -1,7 +1,25 @@
 # Logos
 
-| Name | Square | Fit to content | Padding with content |
+## Usage
+
+- Should be lowercase
+
+```
+https://logos.hphk.io/{type}/{name}.{jpg|png}
+```
+
+- If you want to download:
+
+  ```bash
+  curl https://logos.hphk.io/s/python.jpg --output output.jpg
+  ```
+
+
+## List
+
+| Name | (S)quare | (F)it to content | (P)adding with content |
 | ---- | ---- | ---- | ---- |
-| Python | [jpg](s/python.jpg) [png](s/python.png) | [png](f/python.png) | |
-| Flex | [png](s/flex.png) | | |
-| Coupang | [jpg](s/coupang.jpg) | | |
+| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](f/hphk.jpg) [png](f/hphk.png) |
+| python | [jpg](s/python.jpg) | [png](f/python.png) | |
+| flex | [png](s/flex.png) | | |
+| coupang | [jpg](s/coupang.jpg) | | |
