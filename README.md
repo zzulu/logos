@@ -2,11 +2,11 @@
 
 ## Usage
 
-- Should be lowercase
+- Should be lowercase:
 
-```
-https://logos.hphk.io/{type}/{name}.{jpg|png}
-```
+  ```
+  https://logos.hphk.io/{type}/{name}.{jpg|png}
+  ```
 
 - If you want to download:
 
@@ -19,7 +19,7 @@ https://logos.hphk.io/{type}/{name}.{jpg|png}
 
 | Name | (S)quare | (F)it to content | (P)adding with content |
 | ---- | ---- | ---- | ---- |
-| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](f/hphk.jpg) [png](f/hphk.png) |
+| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | |
 | flex | [png](s/flex.png) | | |
 | coupang | [jpg](s/coupang.jpg) | | |
