@@ -8,18 +8,21 @@
   <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
   <style>
     th, td { padding: 0.5rem 1rem; border: 1px solid #495057; }
-    #container { padding: 1.5rem; }
+    #content { padding: 1.5rem; }
+    .nav { padding: 1.5rem; }
   </style>
 </head>
 <body>
-  <a href="https://github.com/hphkinc/logos">GitHub</a>
-  <div id="container"></div>
+  <nav class="nav">
+    <a href="https://github.com/hphkinc/logos">GitHub</a>    
+  </nav>
+  <div id="content"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
     axios.get('README.md')
       .then((res) => res.data)
       .then((markdownString) => {
-        document.getElementById('container').innerHTML = marked.parse(markdownString);
+        document.getElementById('content').innerHTML = marked.parse(markdownString);
       })
   </script>
 </body>
