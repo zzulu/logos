@@ -21,6 +21,7 @@
 
 | Name | (S)quare | (F)it to content | (P)adding with content |
 | ---- | ---- | ---- | ---- |
+| codespaces | [jpg](s/codespaces.jpg) | | |
 | coupang | [jpg](s/coupang.jpg) | | |
 | flex | [png](s/flex.png) | | |
 | github | [jpg](s/python.jpg) | | |
