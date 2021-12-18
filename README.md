@@ -32,3 +32,4 @@
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | |
 | slack | [jpg](s/slack.jpg) | | |
+| youtube | [jpg](s/youtube.jpg) | | |
