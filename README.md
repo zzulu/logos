@@ -26,6 +26,7 @@
 | flex | [png](s/flex.png) | | |
 | github | [jpg](s/python.jpg) | | |
 | google-analytics | [png](s/google-analytics.png) | | |
+| jira | [jpg](s/jira.jpg) [png](s/jira.png) | [png](f/jira.png) | |
 | k-digital | [jpg](s/k-digital.jpg) | | |
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | |
