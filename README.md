@@ -25,5 +25,6 @@
 | coupang | [jpg](s/coupang.jpg) | | |
 | flex | [png](s/flex.png) | | |
 | github | [jpg](s/python.jpg) | | |
+| google-analytics | [jpg](s/google-analytics.png) | | |
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | |
