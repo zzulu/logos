@@ -8,6 +8,12 @@
   https://logos.hphk.io/{type}/{name}.{jpg|png}
   ```
 
+  - Example:
+
+    ```
+    https://logos.hphk.io/f/hphk.png
+    ```
+
 - If you want to download:
 
   ```bash
