@@ -21,10 +21,11 @@
 
 | Name | (S)quare | (F)it to content | (P)adding with content |
 | ---- | ---- | ---- | ---- |
-| codespaces | [jpg](s/codespaces.jpg) | | |
+| codespaces | [png](s/codespaces.png) | | |
 | coupang | [jpg](s/coupang.jpg) | | |
 | flex | [png](s/flex.png) | | |
 | github | [jpg](s/python.jpg) | | |
-| google-analytics | [jpg](s/google-analytics.png) | | |
+| google-analytics | [png](s/google-analytics.png) | | |
+| k-digital | [jpg](s/k-digital.jpg) | | |
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | |
