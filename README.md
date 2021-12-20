@@ -27,21 +27,22 @@
 
 - Sorted by name, ascending
 
-| Name | (S)quare | (F)it to content | (P)adding with content |
-| ---- | ---- | ---- | ---- |
-| codespaces | [png](s/codespaces.png) | | |
-| coupang | [jpg](s/coupang.jpg) | | |
-| flex | [png](s/flex.png) | | |
-| github | [jpg](s/python.jpg) | | |
-| google-analytics | [png](s/google-analytics.png) | | |
-| jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | |
-| k-digital | [jpg](s/k-digital.jpg) | | |
-| notion | [jpg](s/notion.jpg) | | |
-| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |
-| hphk-h | [jpg](s/hphk-h.jpg) | | |
-| python | [jpg](s/python.jpg) | [png](f/python.png) | |
-| slack | [jpg](s/slack.jpg) | | |
-| youtube | [jpg](s/youtube.jpg) | | |
+| Name | (S)quare | (F)it to content | (P)adding with content | SVG |
+| ---- | ---- | ---- | ---- | ---- |
+| codespaces | [png](s/codespaces.png) | | | |
+| coupang | [jpg](s/coupang.jpg) | | | |
+| flex | [png](s/flex.png) | | | |
+| github | [jpg](s/python.jpg) | | | |
+| google-analytics | [png](s/google-analytics.png) | | | |
+| jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | | |
+| k-digital | [jpg](s/k-digital.jpg) | | | |
+| notion | [jpg](s/notion.jpg) | | | |
+| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |  |
+| hphk-h | [jpg](s/hphk-h.jpg) | | | |
+| python | [jpg](s/python.jpg) | [png](f/python.png) | | |
+| slack | [jpg](s/slack.jpg) | | | |
+| youtube | [jpg](s/youtube.jpg) | | | |
+| poetry |  | | |[svg](svg/poetry.svg) |
 
 
 ## Contribution
