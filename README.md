@@ -33,16 +33,17 @@
 | coupang | [jpg](s/coupang.jpg) | | | |
 | flex | [png](s/flex.png) | | | |
 | github | [jpg](s/python.jpg) | | | |
+| go-mascot | [png](s/go-mascot.png) | [png](f/go-mascot.png) | | |
 | google-analytics | [png](s/google-analytics.png) | | | |
 | jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | | |
 | k-digital | [jpg](s/k-digital.jpg) | | | |
 | notion | [jpg](s/notion.jpg) | | | |
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |  |
 | hphk-h | [jpg](s/hphk-h.jpg) | | | |
+| poetry | | | | [svg](svg/poetry.svg) |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | | |
 | slack | [jpg](s/slack.jpg) | | | |
 | youtube | [jpg](s/youtube.jpg) | | | |
-| poetry |  | | |[svg](svg/poetry.svg) |
 
 
 ## Contribution
