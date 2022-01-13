@@ -42,7 +42,7 @@
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |  |
 | hphk-h | [jpg](s/hphk-h.jpg) | | | |
 | poetry | | | | [svg](svg/poetry.svg) |
-| postgresql | | [png](png/postgresql.png) | | |
+| postgresql | | [png](f/postgresql.png) | | |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | | |
 | slack | [jpg](s/slack.jpg) | | | |
 | vite | | | | [svg](svg/vite.svg) |
@@ -58,3 +58,4 @@
   - `Square`, `s`: 가로, 세로가 같은 이미지
   - `Fit to Content`, `f`: 상하좌우에 여백이 없는 이미지
   - `Padding with content`, `p`: 자유로운 비율의 상하좌우 여백이 있는 이미지
+  - `SVG`, `svg`: SVG 이미지
