@@ -32,7 +32,8 @@
 | codespaces | [png](s/codespaces.png) | | | |
 | coupang | [jpg](s/coupang.jpg) | | | |
 | flex | [png](s/flex.png) | | | |
-| github | [jpg](s/python.jpg) | | | |
+| github | [jpg](s/github.jpg) | | | |
+| gitlab | [png](s/gitlab.png) | | | |
 | go-mascot | [png](s/go-mascot.png) | [png](f/go-mascot.png) | | |
 | google-analytics | [png](s/google-analytics.png) | | | |
 | jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | | |
