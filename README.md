@@ -37,7 +37,7 @@
 | google-analytics | [png](s/google-analytics.png) | | | |
 | jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | | |
 | k-digital | [jpg](s/k-digital.jpg) | | | |
-| notion | [jpg](s/notion.jpg) | | | |
+| notion | [jpg](s/notion.jpg) [png](s/notion.png) | | | |
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |  |
 | hphk-h | [jpg](s/hphk-h.jpg) | | | |
 | poetry | | | | [svg](svg/poetry.svg) |
