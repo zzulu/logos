@@ -45,6 +45,7 @@
 | postgresql | | [png](png/postgresql.png) | | |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | | |
 | slack | [jpg](s/slack.jpg) | | | |
+| vite | | | | [svg](svg/vite.svg) |
 | youtube | [jpg](s/youtube.jpg) | | | |
 
 
