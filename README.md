@@ -32,17 +32,21 @@
 | codespaces | [png](s/codespaces.png) | | | |
 | coupang | [jpg](s/coupang.jpg) | | | |
 | flex | [png](s/flex.png) | | | |
-| github | [jpg](s/python.jpg) | | | |
+| github | [jpg](s/github.jpg) | | | |
+| gitlab | [png](s/gitlab.png) | | | |
 | go-mascot | [png](s/go-mascot.png) | [png](f/go-mascot.png) | | |
 | google-analytics | [png](s/google-analytics.png) | | | |
 | jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | | |
 | k-digital | [jpg](s/k-digital.jpg) | | | |
-| notion | [jpg](s/notion.jpg) | | | |
+| notion | [jpg](s/notion.jpg) [png](s/notion.png) | | | |
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |  |
 | hphk-h | [jpg](s/hphk-h.jpg) | | | |
 | poetry | | | | [svg](svg/poetry.svg) |
+| postgresql | | [png](png/postgresql.png) | | |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | | |
 | slack | [jpg](s/slack.jpg) | | | |
+| vite | | | | [svg](svg/vite.svg) |
+| webex | [png](s/webex.png) | | | |
 | youtube | [jpg](s/youtube.jpg) | | | |
 
 
