@@ -6,3 +6,4 @@
 - [ ] Fit to Content PNG
 - [ ] Padding with content JPG
 - [ ] Padding with content PNG
+- [ ] SVG
