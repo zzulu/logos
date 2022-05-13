@@ -46,6 +46,7 @@
 | python | [jpg](s/python.jpg) | [png](f/python.png) | | |
 | slack | [jpg](s/slack.jpg) | | | |
 | vite | | | | [svg](svg/vite.svg) |
+| vscode | | [png](f/vscode.png) | | |
 | webex | [png](s/webex.png) | | | |
 | youtube | [jpg](s/youtube.jpg) | | | |
 
