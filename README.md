@@ -11,7 +11,7 @@
   - Example:
 
     ```
-    https://zzu.lu/logos/f/hphk.png
+    https://zzu.lu/logos/s/github.jpg
     ```
 
 - If you want to download:
