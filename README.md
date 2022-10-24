@@ -1,25 +1,23 @@
 # Logos
 
-![demo](demo.gif)
-
 ## Usage
 
 - Should be lowercase:
 
   ```
-  https://logos.hphk.io/{type}/{name}.{jpg|png}
+  https://zzu.lu/logos/{type}/{name}.{jpg|png}
   ```
 
   - Example:
 
     ```
-    https://logos.hphk.io/f/hphk.png
+    https://zzu.lu/logos/f/hphk.png
     ```
 
 - If you want to download:
 
   ```bash
-  curl https://logos.hphk.io/s/python.jpg --output output.jpg
+  curl https://zzu.lu/logos/s/python.jpg --output output.jpg
   ```
 
 
