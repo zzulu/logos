@@ -39,7 +39,7 @@
 | notion | [jpg](s/notion.jpg) [png](s/notion.png) | | | |
 | hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |  |
 | hphk-h | [jpg](s/hphk-h.jpg) | | | |
-| hypergrowth | [jpg](s/hypergrowth.jpg) | [png](s/hypergrowth.png) | |
+| hypergrowth | [jpg](s/hypergrowth.jpg) | [png](f/hypergrowth.png) | |
 | poetry | | | | [svg](svg/poetry.svg) |
 | postgresql | | [png](f/postgresql.png) | | |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | | |
