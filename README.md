@@ -52,10 +52,11 @@
 
 ## Contribution
 
-- 이미지 해상도의 제한은 없지만, 너무 낮아 확인이 힘들지 않도록 가로 또는 세로가 200px을 넘도록 해주세요.
-- jpg는 배경 색상(#fff)이 존재하도록, png는 배경이 없도록 해주세요.
-- 각 타입은 다음과 같습니다.
-  - `Square`, `s`: 가로, 세로가 같은 이미지
-  - `Fit to Content`, `f`: 상하좌우에 여백이 없는 이미지
-  - `Padding with content`, `p`: 자유로운 비율의 상하좌우 여백이 있는 이미지
-  - `SVG`, `svg`: SVG 이미지
+- Please make a pull request to `main` branch.
+- Please make it over 200px in width or height so that it is not difficult to see.
+- Please use `jpg` for images with background color(`#ffffff`), and `png` for images without background.
+- Please use the following types:
+  - `Square`, `s`: Images with same width and height
+  - `Fit to Content`, `f`: Images with no padding on top, bottom, left, and right
+  - `Padding with content`, `p`: Images with padding on top, bottom, left, and right
+  - `SVG`, `svg`: SVG images
