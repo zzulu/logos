@@ -27,8 +27,10 @@
 
 | Name | (S)quare | (F)it to content | (P)adding with content | SVG |
 | ---- | ---- | ---- | ---- | ---- |
+| celery | [png](s/celery.png) | | | |
 | codespaces | [png](s/codespaces.png) | | | |
 | coupang | [jpg](s/coupang.jpg) | | | |
+| docker | [png](s/docker.png) | | | |
 | flex | [png](s/flex.png) | | | |
 | github | [jpg](s/github.jpg) | | | |
 | gitlab | [png](s/gitlab.png) | | | |
@@ -37,15 +39,18 @@
 | jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | | |
 | k-digital | [jpg](s/k-digital.jpg) | | | |
 | notion | [jpg](s/notion.jpg) [png](s/notion.png) | | | |
-| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) |  |
+| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) | |
 | hphk-h | [jpg](s/hphk-h.jpg) | | | |
 | hypergrowth | [jpg](s/hypergrowth.jpg) | [png](f/hypergrowth.png) | |
 | poetry | | | | [svg](svg/poetry.svg) |
 | postgresql | | [png](f/postgresql.png) | | |
 | python | [jpg](s/python.jpg) | [png](f/python.png) | | |
+| redis | [webp](s/redis.webp) | | | |
 | slack | [jpg](s/slack.jpg) | | | |
+| traefik | [png](s/traefik.png) | | | |
 | vite | | | | [svg](svg/vite.svg) |
 | vscode | | [png](f/vscode.png) | | |
+| vue | | [png](f/vue.png) | | |
 | webex | [png](s/webex.png) | | | |
 | youtube | [jpg](s/youtube.jpg) | | | |
 
