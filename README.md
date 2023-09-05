@@ -54,6 +54,7 @@
 | vue | | [png](f/vue.png) | | |
 | webex | [png](s/webex.png) | | | |
 | youtube | [jpg](s/youtube.jpg) | | | |
+| (empty) | [png](s/empty.png) | | | |
 
 
 ## Contribution
