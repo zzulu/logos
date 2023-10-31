@@ -1,5 +1,7 @@
 # Logos
 
+![demo](demo.gif)
+
 ## Usage
 
 - Should be lowercase:
