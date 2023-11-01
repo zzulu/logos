@@ -41,9 +41,6 @@
 | jira-software | [jpg](s/jira-software.jpg) [png](s/jira-software.png) | [png](f/jira-software.png) | | |
 | k-digital | [jpg](s/k-digital.jpg) | | | |
 | notion | [jpg](s/notion.jpg) [png](s/notion.png) | | | |
-| hphk | [jpg](s/hphk.jpg) | [png](f/hphk.png) | [jpg](p/hphk.jpg) [png](p/hphk.png) | |
-| hphk-h | [jpg](s/hphk-h.jpg) | | | |
-| hypergrowth | [jpg](s/hypergrowth.jpg) | [png](f/hypergrowth.png) | |
 | pinia | | | | [svg](svg/pinia.svg) |
 | poetry | | | | [svg](svg/poetry.svg) |
 | postgresql | | [png](f/postgresql.png) | | |
