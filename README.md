@@ -30,6 +30,8 @@
 | Name | (S)quare | (F)it to content | (P)adding with content | SVG |
 | ---- | ---- | ---- | ---- | ---- |
 | celery | [png](s/celery.png) | | | |
+| codeit | [jpg](s/codeit.jpg) | | | |
+| codeit-inverse | [jpg](s/codeit-inverse.jpg) | | | |
 | codespaces | [png](s/codespaces.png) | | | |
 | coupang | [jpg](s/coupang.jpg) | | | |
 | docker | [png](s/docker.png) | | | |
